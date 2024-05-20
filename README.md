@@ -8,7 +8,7 @@ This repository contains  visually appealing CSS  effect that can be easily inte
 
 ## Features
 
-- **Smooth Wave Animation**: The wave effect features a smooth and continuous animation, creating a calming and mesmerizing visual experience.
+- **Smooth Animation**: The  effect features a smooth and continuous animation, creating a calming and mesmerizing visual experience.
 - **Customizable Colors**: You can easily customize the colors of the wave to match your brand or design preferences.
 - **Responsive Design**: The wave effect is responsive and adapts seamlessly to different screen sizes and devices.
 - **Lightweight and Performant**: With just a few lines of CSS, this effect is lightweight and highly performant, ensuring minimal impact on your website's load times.
