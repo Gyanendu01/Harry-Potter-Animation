@@ -4,7 +4,7 @@ This repository contains  visually appealing CSS  effect that can be easily inte
 
 ## Preview
 
-[Wave Effect Preview](https://gyanendu01.github.io/Harry-Potter-Animation/)
+[Effect Preview](https://gyanendu01.github.io/Harry-Potter-Animation/)
 
 ## Features
 
